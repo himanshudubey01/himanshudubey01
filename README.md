@@ -36,7 +36,7 @@ Compliance & Security: PCI DSS, STIG, security vulnerability management
 # Experience
 #
 ## Hitachi Digital Services, USA
-### Senior FinOps Engineer/Lead, TMNA
+#### Senior FinOps Engineer/Lead
 #### November 2024 - Current
 ```
 * Responsible to leading the team at client location, Identify and allocate Sprint wise work and generate team’s roadmap and productivity and achievement reports.
@@ -52,7 +52,7 @@ __Technologies:__ Terraform, Terragrunt, GitHub Actions and workflows, AWS, Dock
 
 
 ## Hitachi Digital Services, India
-### Senior FinOps Engineer, Novartis
+#### Senior software Engineer
 #### May 2023 – October 2024
 ```
 * Cost Monitoring and Governance using Finops best practices within public cloud ecosystem.
@@ -66,7 +66,7 @@ __Technologies:__ Terraform, Terragrunt, GitHub Actions and workflows, AWS, Dock
 __Technologies:__ AWS services, Cost and Management – Billing and Reporting, AWS QuickSight, FinOps
 
 ## Hitachi Vantara, India
-### Principle DevOps Engineer/Lead, HCAP-HARC
+#### Principle DevOps Engineer
 #### Jan 2022 – April 2023
 ```
 * Helping projects in design and provisioning secure and scalable infrastructure in AWS through DevOps tools.
@@ -84,7 +84,7 @@ __Technologies:__ Terraform, AWS, Kubernetes, Docker, Helm Charts, Jenkins
 # Prior Work History
 
 ## Trianz Holdings Pvt. Ltd.
-### Senior Technical Lead – Cloud/GE
+#### Senior Technical Lead
 #### June 2019 – Jan 2022
 ```
 * Helping Development team in design and provisioning secure and robust infrastructure in AWS, through Terraform, Code Repository, Ansible and similar automation tools.
@@ -98,7 +98,7 @@ __Technologies:__ Terraform, AWS, Jenkins, CICD, Shell, Kubernetes and Docker
 
 #
 ## Cignex Datamatics Technologies Ltd.
-### Senior Technical Lead – Cloud/schneider
+#### Senior Technical Lead – Cloud
 #### April 2018 – July 2019
 ```
 * Responsible for managing end-to-end infrastructure and hosting web applications along with monitoring and automation solutions.
@@ -111,11 +111,11 @@ __Technologies:__ AWS, Terraform, Web and Application server configuration and m
 
 #
 ## Amadeus Software Labs India Pvt. Ltd.
-### Member Technical Staff/ Air Canada
+#### Senior Member Technical Staff
 #### May 2016 – March 2018
 ```
 * Responsible for managing a small team of 6 members, providing technical solutions and support.
-Handling client escalation and troubleshooting the issues for RCA.
+* Handling client escalation and troubleshooting the issues for RCA.
 * Defining the solution and industry best practice to implement the same for different clients.
 * Developing the automation strategy and aligning the process for robustness
 * Hands-on experience with infrastructure elasticity, Monitoring and automation.
@@ -125,7 +125,7 @@ __Technologies:__ VMware ESX (On-prem Server Management), Firecell (Disaster Rec
 
 #
 ## Sapient Consulting Private Limited
-### Senior Associate Infrastructure/Loblaws
+#### Senior Associate Infrastructure
 #### Nov 2013 – April 2016
 ```
 * Responsible for creating and maintaining the Physical, Virtual or Cloud-based infrastructure for different clients
@@ -144,7 +144,7 @@ __Technologies:__ Ansible, Puppet (Configuration Management), Adobe Experience M
 
 #
 ## NTT DATA Global Data Services Ltd.
-### Technical Executive
+#### Technical Executive
 #### June 2012 – Nov 2013
 ```
 * Responsible for configuration, troubleshooting, management and optimization of servers.
@@ -160,7 +160,7 @@ __Technologies:__  CA SiteMinder (Web Authentication), F5 BIG-IP (Load Balancer)
 
 #
 ## ABIT Corp
-### System Administrative – Linux/Unix
+#### System Administrative – Linux/Unix
 #### Aug 2009 – May 2012
 ```
 * Troubleshoot and monitor issues like ping down, space issues, email relaying issues through ping script and Nagios tool.
