@@ -42,7 +42,7 @@ Compliance & Security: PCI DSS, STIG, security vulnerability management
 * Responsible to leading the team at client location, Identify and allocate Sprint wise work and generate team’s roadmap and productivity and achievement reports.
 * Responsible to Identify Cost Saving opportunity and Help Stakeholders in FinOps Best Practices within public cloud ecosystem.
 * Responsible to Define and Design Auto remediation solution for various key FinOps identification.
-Automation and define process for Cost Avoidance and governance
+* Automation and define process for Cost Avoidance and governance
 * Defining FinOps KPIs and roadmaps for adopting cost saving practices.
 * Monitoring cloud usage through various tools such as Trusted Advisor, cost Explorer, Cost Anomaly Detection, Compute Optimizer, Storage Lens to identify cost-saving opportunities.
 * Developing and maintaining financial models to forecast and track cloud costs and Cost Avoidance reports.
