@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **himanshudubey01/himanshudubey01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-Himanshu Dubey
-Software Development Engineering Specialist Professional
+#Himanshu Dubey
+##Software Development Engineering Specialist Professional
 
 Summary
 
